@@ -1,0 +1,37 @@
+body {
+  background-color: bisque;
+}
+html {
+  font-family: monospace;
+}
+/*BOX CHERCHER FILM*/
+h1 {
+  color: rgb(12, 12, 12);
+  margin: 40px;
+  text-align: center;
+}
+.mycine {
+  border: rgb(119, 82, 51);
+  border-style: outset;
+  border-radius: 15px;
+}
+.search {
+  display: inline-table;
+  padding: 40px;
+  padding-bottom: 15px;
+  padding-top: 0px;
+  margin-bottom: 20px;
+  margin-left: 8%;
+  border: rgb(119, 82, 51);
+  border-style: outset;
+  border-radius: 15px;
+}
+
+.button-search {
+  margin-top: 25px;
+  margin-left: 50px;
+}
+input {
+  margin-left: 13px;
+}
+
