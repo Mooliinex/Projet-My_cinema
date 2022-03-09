@@ -30,6 +30,6 @@
 
 <div align="center">
 	<br>
-	<img src="Description du projet/img.png" width="800" height="400">
+	<img src="Description du projet/img.png" >
 	<br>
 </div>
